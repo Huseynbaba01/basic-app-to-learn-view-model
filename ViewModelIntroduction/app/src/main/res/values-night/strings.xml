@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="click_here">CLICK HERE!</string>
+    <string name="hello">Hello!</string>
+    <string name="goodbye">Goodbye!</string>
+    <string name="end">End!</string>
+</resources>
